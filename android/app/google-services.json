@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512152461352",
+    "project_id": "a2mentorship",
+    "storage_bucket": "a2mentorship.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512152461352:android:2ca1934bdb795ad235951d",
+        "android_client_info": {
+          "package_name": "com.app.mediplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWBNaAYeY8vl3Tp-KDpyauJ7n-BNseKNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
